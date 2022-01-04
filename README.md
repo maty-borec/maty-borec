@@ -2,10 +2,6 @@
 Hello, I'm Maty 👋
 </h1>
 
-<a href="https://discord.com/users/527469064679981086">
-  <img src="https://lanyard.cnrad.dev/api/527469064679981086" align="right" />
-</a>
-
 - 🖥️ Frontend:
   - Classic HTML / CSS / JS
 
