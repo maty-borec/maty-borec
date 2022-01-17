@@ -1,5 +1,5 @@
 <h1 align="left">
-Hello, I'm Maty 👋
+Ahoj, já jsem Maty 👋
 </h1>
 
 - 🖥️ Frontend:
